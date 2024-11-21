@@ -1,8 +1,8 @@
-PROYECTO1 ENTREGABLE DIA 14 11 2024
+PROYECTO2 ENTREGABLE DIA 21 11 2024
 
-Proyecto (Trantando de ser breve y directo, pero dado la embergadura del proyecto se ha hecho un poco largo).
+Proyecto
 
-Descripcion: Consta basicamente de cuatro microservicios o unidades de negocio (accountservice, creditservice, customer, transactionservice).
+Descripcion: Consta basicamente de 6 microservicios o unidades de negocio (accountservice, creditservice, customer, transactionservice, apiregistry, gateway).
 
 Objetos:
 
